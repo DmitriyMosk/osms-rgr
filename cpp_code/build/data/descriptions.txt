@@ -1,0 +1,8 @@
+./data/task2.txt; plot; x,y; "bitSequence"; "Index"; "Value"; false
+./data/task4.txt; plot; x,y; "gold"; "Index"; "Value"; false
+./data/task5.txt; plot; x,y; "Oversampled"; "Index"; "Value"; false
+./data/task6.txt; plot; x,y; "signalArray"; "Index"; "Value"; false
+./data/task7_1.txt; plot; x,y; "Noise"; "Index"; "Value"; false
+./data/task7_2.txt; plot; x,y; "Signal + noise"; "Index"; "Value"; false
+./data/task8_1.txt; plot; x,y; "received - start noise"; "Index"; "Value"; false
+./data/task9.txt; plot; x,y; "interpreted signal"; "Index"; "Value"; false

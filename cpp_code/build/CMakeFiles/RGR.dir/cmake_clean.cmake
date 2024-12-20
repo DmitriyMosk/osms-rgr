@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/RGR.dir/src/BitSequence/CRCGenerator.cpp.o"
+  "CMakeFiles/RGR.dir/src/BitSequence/CRCGenerator.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/BitSequence/Converter.cpp.o"
+  "CMakeFiles/RGR.dir/src/BitSequence/Converter.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/BitSequence/GoldSequenceGenerator.cpp.o"
+  "CMakeFiles/RGR.dir/src/BitSequence/GoldSequenceGenerator.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/BitSequence/hamming.cpp.o"
+  "CMakeFiles/RGR.dir/src/BitSequence/hamming.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/BitDecoder.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/BitDecoder.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/Correlation.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/Correlation.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/SignalAnalyzer.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/SignalAnalyzer.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/findSequence.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalAnalysis/findSequence.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalProcessing/extractEveryNthValue.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalProcessing/extractEveryNthValue.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/SignalProcessing/generateWhiteNoise.cpp.o"
+  "CMakeFiles/RGR.dir/src/SignalProcessing/generateWhiteNoise.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/Utilities/Utilities.cpp.o"
+  "CMakeFiles/RGR.dir/src/Utilities/Utilities.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/Utilities/readFromUser.cpp.o"
+  "CMakeFiles/RGR.dir/src/Utilities/readFromUser.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/Visualization/printSequence.cpp.o"
+  "CMakeFiles/RGR.dir/src/Visualization/printSequence.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/Visualization/saveGraphData.cpp.o"
+  "CMakeFiles/RGR.dir/src/Visualization/saveGraphData.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/Visualization/saveGraphDescription.cpp.o"
+  "CMakeFiles/RGR.dir/src/Visualization/saveGraphDescription.cpp.o.d"
+  "CMakeFiles/RGR.dir/src/main.cpp.o"
+  "CMakeFiles/RGR.dir/src/main.cpp.o.d"
+  "RGR"
+  "RGR.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/RGR.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
